@@ -19,12 +19,14 @@ coverage
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
 .idea
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+.eslintrc.cjs
+.prettierrc.json
+env.d.ts
 
 *.tsbuildinfo
